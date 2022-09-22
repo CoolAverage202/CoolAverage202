@@ -1,3 +1,4 @@
+![](https://rajsoftwares.com/images/services/website.jpg)
 
 <h1 align="center">Hi 👋, I'm Cristopher Perez-Ruiz</h1>
 <h3 align="center">Just a Latino who will become an amazing Software Developer.</h3>
